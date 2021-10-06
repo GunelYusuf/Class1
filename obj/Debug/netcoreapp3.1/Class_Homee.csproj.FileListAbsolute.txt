@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/bin/Debug/netcoreapp3.1/Class_Homee.deps.json
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/bin/Debug/netcoreapp3.1/Class_Homee.runtimeconfig.json
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/bin/Debug/netcoreapp3.1/Class_Homee.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/bin/Debug/netcoreapp3.1/Class_Homee.dll
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/bin/Debug/netcoreapp3.1/Class_Homee.pdb
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.dll
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.pdb
+/Users/gunelyusubova/Projects/Class_Homee/Class_Homee/obj/Debug/netcoreapp3.1/Class_Homee.genruntimeconfig.cache
